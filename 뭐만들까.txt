@@ -1,0 +1,7 @@
+1. CommonProject -> Spring boot > 이건 진행중 ㅇ.ㅇ
+2. 2주동안 React.js + node.js + AWS (이게 괜찮을듯)
+3. 약간 내가 지금 필요한건 음 
+덤프.csv 만들어놓고 파일 업로드하면
+전자문제집 cbt마냥 덤프나오는? 그런거 만들고 싶음.
+
+이걸 한번 React + node로 만들어볼까?
